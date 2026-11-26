@@ -11,7 +11,7 @@ Aqui no GitHub publico laboratórios e projetos que conectam **administração d
 | Projeto | O que mostra | Stack |
 |---|---|---|
 | [**Laboratório Oracle Data Pump**](https://github.com/kennedy1993/oracle-datapump-lab) | Backup lógico, simulação de desastre com `DROP TABLE ... PURGE` e restauração validada automaticamente | Oracle 23ai, expdp/impdp, SQL\*Plus, Docker |
-| [**Pipeline dbt + BigQuery**](https://github.com/kennedy1993/dbt-exemplo) | Modelagem Star Schema, 45 testes de qualidade de dados, particionamento e clusterização | dbt Core, BigQuery, SQL |
+| [**Pipeline dbt + BigQuery**](https://github.com/kennedy1993/dbt-exemplo) | Modelagem Star Schema, 43 testes de qualidade de dados e clusterização | dbt Core, BigQuery, SQL |
 | [**Select AI Local (Text-to-SQL)**](https://github.com/kennedy1993/AgenteSelectAILocal) | Perguntas em português convertidas em SQL com LLM local e matriz de avaliação | Python, LangChain, Ollama, SQLite |
 | [**Assistente RAG Local**](https://github.com/kennedy1993/AgenteRagLocal) | Perguntas e respostas sobre documentos internos sem enviar dados para a nuvem | Python, LangChain, FAISS, Ollama |
 | [**Detecção de Fraude**](https://github.com/kennedy1993/deteccao_fraude_cartao_credito) | Classificação em base desbalanceada, ajuste de threshold e explicabilidade com SHAP | Python, Scikit-learn, XGBoost |
