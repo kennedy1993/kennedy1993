@@ -29,6 +29,8 @@ Aqui no GitHub publico laboratórios e projetos que conectam **administração d
 - Oracle Cloud Infrastructure Certified AI Foundations Associate
 - Oracle Cloud Infrastructure Certified Foundations Associate
 - Oracle Data Platform 2025 Certified Foundations Associate
+- FinOps Certified Practitioner (FinOps Foundation)
+- AWS re/Start Graduate
 
 ## 📚 Estudando agora
 
